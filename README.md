@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img align="center" alt="GIF" src="video.gif" height=280 width=280/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
