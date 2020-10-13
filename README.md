@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img align="center" alt="GIF" src="video.gif" height=280 width=280/>
+<img align="center" alt="GIF" src="video.gif"/>
 
 ## Getting Started
 
